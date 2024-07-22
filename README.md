@@ -52,3 +52,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 * This game is still under development and may contain bugs or unfinished features.
 * The game is designed for testing and learning purposes.
 * Feel free to modify and extend the code to your liking.
+![Screenshot (127)](https://github.com/user-attachments/assets/dda0fa4c-0353-43a8-bada-504df27dfeee)
+![Screenshot (132)](https://github.com/user-attachments/assets/be133002-babb-462e-b8f3-f03dbc3f8e2f)
+![Screenshot (142)](https://github.com/user-attachments/assets/d561c374-5a2c-40f2-88be-754a00f40195)
+
