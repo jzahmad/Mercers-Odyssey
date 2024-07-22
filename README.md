@@ -1,4 +1,4 @@
-## First Person Shooter Game
+## Mercers-Odyssey
 
 This repository contains the for a First Person Shooter game built using Unity.
 
