@@ -28,7 +28,7 @@ The game features:
 2. **Clone the repository:** Clone this repository to your local machine using Git.
 3. **Open the project:** Open the cloned repository folder in Unity.
 4. **Install dependencies:** No external dependencies required.
-5. **Run the game:** Press the play button in the Unity editor to start the game.
+5. **Run the game:** Click on "Mercer's Odyssey.exe".
 
 ### Configuration
 
